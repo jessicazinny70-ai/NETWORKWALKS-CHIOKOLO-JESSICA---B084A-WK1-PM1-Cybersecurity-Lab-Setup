@@ -94,4 +94,4 @@ This environment is intended for cybersecurity education and authorised testing.
 **Project status:** Week 1 lab setup completed. 
 ## 10. Video Demonstration
 
-[Watch my Week 1 Kali Linux Lab Demonstration](https://drive.google.com/file/d/1jVoiWQR9J3ychnvLMxxCobQxaKGtUTZr/view?usp=drive_link)
+[Watch my Week 1 Kali Linux Lab Demonstration](https://drive.google.com/file/d/1jVoiWQR9J3ychnvlMxxCObQxaKGtUTZr/view?usp=sharing)
